@@ -1,0 +1,6 @@
+id=Disable_GPU_Thermal_and_Change_GPU_Governor
+name=Disable GPU Thermal and Change GPU Governor
+version=1.0
+versionCode=10
+author=Telegram @ARCode4U / Kreapic
+description=This module for disable your GPU thermal and change GPU governor to performance. Note : Only Snapdragon!
