@@ -1,3 +1,5 @@
+![Header Image](https://github.com/mahisataruna/Disable-GPU-Thermal-Change-Governor/blob/v1.1/banner.jpg?raw=true)
+
 <h1 align="center">Disable GPU Thermal & Change GPU Governor</h1>
 <p align="center"><b>Version 1.0</b></p>
 
@@ -12,6 +14,10 @@
 ## Description
 
 This is magisk module to <b>Disable GPU Thermal</b> and <b>Change GPU Governor to Performance</b>.
+
+### Download
+
+[![Latest Release v1.1 / 22/11/2023](https://img.shields.io/badge/Download-v1.1-blue)](https://github.com/mahisataruna/Disable-GPU-Thermal-Change-Governor/releases/download/v1.1-release/Algorithm.-Disable-GPU-Thermal-GPU-Governor-v1.1.zip)
 
 ## Feature
 
@@ -33,8 +39,12 @@ This is magisk module to <b>Disable GPU Thermal</b> and <b>Change GPU Governor t
 
 ## Changelog
 
-- Check out what's new [here](https://github.com/mahisataruna/)
+- Check out what's new [here](https://github.com/mahisataruna/Disable-GPU-Thermal-Change-Governor/blob/v1.1/CHANGELOG.md)
 
 ## Note!
 
 This module is only intended for smartphones with <b>SNAPDRAGON</b> chipset. Cannot be used on other types. Any damage caused by this module is not our responsibility. <b>Do With Your Own Risk!</b>.
+
+## Link
+
+[![Telegram URL](https://img.shields.io/twitter/url?label=Telegram&logo=telegram&style=social)](https://t.me/algorithmdev)
