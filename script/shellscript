@@ -1,6 +1,10 @@
 #!/bin/sh
 
-sleep 20
+##########################################################################################
+# Telegram : @algorithmdev by Kreapic
+##########################################################################################
+
+sleep 10
 # Set GPU Governor to Performance
 echo performance > /sys/kernel/gpu/gpu_governor
 # Disable throttling

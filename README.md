@@ -2,7 +2,7 @@
 <p align="center"><b>Version 1.0</b></p>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Updated-2023/11/21-blue.svg?longCache=true&style=popout-round"/>
+    <img src="https://img.shields.io/badge/Updated-2023/11/22-blue.svg?longCache=true&style=popout-round"/>
     <img src="https://img.shields.io/badge/Magisk-Module-green.svg?longCache=true&style=flat-round"/>
     <h3>
         This is <a href="https://github.com/topjohnwu/Magisk">Magisk</a> module to disable your GPU thermal and change GPU governor to performance. 
