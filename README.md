@@ -1,4 +1,4 @@
-![Header Image](https://github.com/mahisataruna/Disable-GPU-Thermal-Change-Governor/blob/v1.1/banner.jpg?raw=true)
+![Header Image](https://github.com/mahisataruna/Disable-GPU-Thermal-Change-Governor/blob/v1.1/banner.png?raw=true)
 
 <h1 align="center">Disable GPU Thermal & Change GPU Governor</h1>
 <p align="center"><b>Version 1.0</b></p>
